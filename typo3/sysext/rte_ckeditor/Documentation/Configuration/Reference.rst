@@ -83,6 +83,9 @@ editor.config
    defines the tags, their attributes, styles and classes that are allowed.
    Plugins (like table and tabletools) use these definitions to change their behaviour.
    
+   See the unminified source of the table plugin for details. Look out for "requiredContent":
+   <https://github.com/ckeditor/ckeditor4/blob/master/plugins/table/dialogs/table.js>
+   
    For more information on the syntax see the docs:
    <https://ckeditor.com/docs/ckeditor4/latest/guide/dev_allowed_content_rules.html>
 
